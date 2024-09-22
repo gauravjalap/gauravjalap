@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/gauravjalap)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode)](https://leetcode.com/gauravjalap)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/gauravjalap)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/gauravkumar)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/gauravkumar0109)
 
 ---
 
@@ -42,11 +42,10 @@
 )
 
 ## 🏆 GitHub Achievements:
-
-- 🏅 Total Contributions: `<!-- Add your contribution data manually or via a stat generator -->`
-- 🌟 Total Stars: `<!-- Add total stars data manually -->`
-- 🛠 Total Repositories: `<!-- Manually update this number -->`
-- 🧑‍💻 Contributed to: `<!-- You can manually track your contributions to open source projects here -->`
+<!--- 🏅 Total Contributions: ` Add your contribution data manually or via a stat generator -->`
+<!--- 🌟 Total Stars: `<!-- Add total stars data manually -->`
+<!--- 🛠 Total Repositories: `<!-- Manually update this number -->`
+<!--- 🧑‍💻 Contributed to: `<!-- You can manually track your contributions to open source projects here -->`
 
 <!-- Add additional GitHub badges/achievements from https://github.com/ryo-ma/github-profile-trophy -->
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gauravjalap&theme=radical&no-bg=true)
