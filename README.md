@@ -37,23 +37,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravjalap&layout=compact&theme=radical" alt="Gaurav's Most Used Languages" />
 </p>
-
----
-<!-- ) -->
-
-<!-- ## 🏆 GitHub Achievements: -->
-<!--- 🏅 Total Contributions: ` Add your contribution data manually or via a stat generator -->`
-<!--- 🌟 Total Stars: `<!-- Add total stars data manually -->`
-<!--- 🛠 Total Repositories: `<!-- Manually update this number -->`
-<!--- 🧑‍💻 Contributed to: `<!-- You can manually track your contributions to open source projects here -->`
-
-<!-- Add additional GitHub badges/achievements from https://github.com/ryo-ma/github-profile-trophy -->
-<!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gauravjalap&theme=radical&no-bg=true) -->
-
-<!-- --- -->
-
-<!-- ## 🔥 Current Streak:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravjalap&theme=radical" alt="Gaurav's GitHub Streak" />
-</p> -->
-
