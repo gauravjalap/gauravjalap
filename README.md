@@ -52,8 +52,8 @@
 
 <!-- --- -->
 
-## 🔥 Current Streak:
+<!-- ## 🔥 Current Streak:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravjalap&theme=radical" alt="Gaurav's GitHub Streak" />
-</p>
+</p> -->
 
