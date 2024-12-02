@@ -39,7 +39,7 @@
 </p>
 
 ---
-)
+<!-- ) -->
 
 <!-- ## 🏆 GitHub Achievements: -->
 <!--- 🏅 Total Contributions: ` Add your contribution data manually or via a stat generator -->`
