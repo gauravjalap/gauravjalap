@@ -2,8 +2,8 @@
 
 ## And, I am passionate about Software Engineering...
 
-- 🌱 I'm currently learning **NextJS, Kubernetes, AWS**
-- 💬 Ask me about **MERN, Docker, Linux**
+<!-- - 🌱 I'm currently learning **NextJS, Kubernetes, AWS** -->
+- 💬 Ask me about **MERN, Docker, Linux, Kubernetes, AWS, AZURE**
 - 📫 How to reach me: work.gauravkumar01@gmail.com
 - 📊 Profile views: ![Profile Views](https://komarev.com/ghpvc/?username=gauravjalap)
 
