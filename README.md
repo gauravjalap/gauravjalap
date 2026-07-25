@@ -41,8 +41,8 @@ Full-stack food ordering & delivery platform with cart, menu browsing, and a com
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gauravjalap&show_icons=true&theme=radical&hide_border=true" alt="Gaurav's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravjalap&layout=compact&theme=radical&hide_border=true" alt="Gaurav's Most Used Languages" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gauravjalap&show_icons=true&theme=radical&hide_border=true" alt="Gaurav's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gauravjalap&layout=compact&theme=radical&hide_border=true" alt="Gaurav's Most Used Languages" />
 </p>
 
 <p align="center">
